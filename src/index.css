@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bclb{
+  background-color: rgb(5, 130, 130);
+}
+
+.goku{
+  background-image: url(../public/img/goku1.jpg);background-size: cover;
+  background-position: center;height: 250px; width: 100%;
+  border-radius: 20px 20px;
+}
+
+.bshadow{
+  box-shadow: 0px 5px 10px 5px;
+}
+
+.b{
+  border-radius: 5px 5px;
+}
+
+
+.font1{
+  font-family: 'Russo One', sans-serif;
+}
+
+.fonts{
+  font-size: 18px;
+}
+
+.mt1{
+  margin-top: -20px;
+}
+
